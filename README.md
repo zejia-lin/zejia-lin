@@ -1,5 +1,9 @@
-![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&count_private=true&include_all_commits=true)
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeege-0&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 <!--
 **Zeege-0/zeege-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
