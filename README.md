@@ -1,13 +1,24 @@
+## <img height="20" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi there
+
+<!-- profile views -->
+<!-- , I'm a Github member for  -->
+<!-- ![Years Badge](https://badges.pufler.dev/years/huangxt57). -->
+<!-- and the number of visitors for this page is  -->
+<!-- ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS). -->
+
+- 🌱 I'm first year postgraduate student at Sun Yat-sen University
+- 🤔 Currently interested in compilers, GPUs
+- 📖 Know more about me: [zeege-0.github.io](https://zeege-0.github.io/)
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&include_all_commits=true) -->
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeege-0&layout=compact" />
 </a>
+-->
 
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
 
