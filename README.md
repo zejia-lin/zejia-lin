@@ -8,7 +8,7 @@
 
 - 🌱 I'm first year postgraduate student at Sun Yat-sen University
 - 🤔 Currently interested in compilers, GPUs
-- 📖 Know more about me: [zeege-0.github.io](https://zeege-0.github.io/)
+- 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&include_all_commits=true) -->
 
