@@ -6,7 +6,7 @@
 <!-- and the number of visitors for this page is  -->
 <!-- ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS). -->
 
-- 🌱 I'm first year postgraduate student at Sun Yat-sen University
+- 🌱 I'm second year postgraduate student at Sun Yat-sen University
 - 🤔 Currently interested in compilers, GPUs
 - 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
 
