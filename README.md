@@ -2,13 +2,16 @@
 
 <!-- profile views -->
 <!-- , I'm a Github member for  -->
-<!-- ![Years Badge](https://badges.pufler.dev/years/huangxt57). -->
+<!-- ![Years Badge](https://badges.pufler.dev/years/zejia-lin). -->
 <!-- and the number of visitors for this page is  -->
-<!-- ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS). -->
+<!-- ![](https://komarev.com/ghpvc/?username=zejia-lin&color=blue&label=PROFILE+VIEWS). -->
 
 - 🌱 I'm second year master student at Sun Yat-sen University
 - 🤔 Currently interested in compilers, GPUs
 - 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&include_all_commits=true) -->
 
