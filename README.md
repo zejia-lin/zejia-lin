@@ -11,21 +11,17 @@
 - 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2041%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+```txt
+Total Time: 7 hrs 45 mins
 
-```text
-💬 Programming Languages: 
-C                        4 hrs 23 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.63 % 
-Objective-C              1 hr 51 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.88 % 
-Cuda                     1 hr 23 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.99 % 
-Markdown                 6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.29 % 
-JSON                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.08 % 
+C             4 hrs 23 mins   ██████████████-----------   56.63 %
+Objective-C   1 hr 51 mins    ██████-------------------   23.88 %
+Cuda          1 hr 23 mins    ████>--------------------   17.99 %
+Markdown      6 mins          >------------------------   01.29 %
+C++           0 secs          -------------------------   00.07 %
 ```
 
-
- Last Updated on 26/11/2023 04:30:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&include_all_commits=true) -->
