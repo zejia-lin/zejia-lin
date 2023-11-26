@@ -19,7 +19,7 @@ jobs:
           ### content
           SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
-          BLOCKS: ->█ # optional
+          BLOCKS: ·░▒▓█ # optional
           TIME_RANGE: last_7_days # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
