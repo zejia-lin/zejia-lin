@@ -10,6 +10,8 @@
 - 🤔 Currently interested in compilers, GPUs
 - 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
 
+**📈 Last Week Coding Time**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -34,7 +36,7 @@ C++           0 secs          -------------------------   00.07 %
 </a>
 -->
 
-<!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
+<!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=zejia-lin&cn=true"> </div>-->
 
 
 <!--
