@@ -15,9 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 25 mins    ███████████▒·············   45.56 %
-Python     1 hr 16 mins    ██████████░··············   40.86 %
-Other      25 mins         ███░·····················   13.47 %
+Text   0 secs          ██████▒··················   26.08 %
 ```
 
 <!--END_SECTION:waka-->
