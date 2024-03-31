@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 min           ▓························   03.10 %
+Other   1 min           ·························   00.38 %
 ```
 
 <!--END_SECTION:waka-->
