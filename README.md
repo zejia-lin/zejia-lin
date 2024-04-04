@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 min           ·························   00.38 %
+YAML   4 hrs 28 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
