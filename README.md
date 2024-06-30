@@ -15,9 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      4 hrs 54 mins   ███████████████████████··   91.86 %
-Python   20 mins         █▒·······················   06.32 %
-BibTeX   5 mins          ▒························   01.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
