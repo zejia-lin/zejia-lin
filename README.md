@@ -6,8 +6,8 @@
 <!-- and the number of visitors for this page is  -->
 <!-- ![](https://komarev.com/ghpvc/?username=zejia-lin&color=blue&label=PROFILE+VIEWS). -->
 
-- 🌱 I'm second-year Ph.D. student at Sun Yat-sen University
-- 🤔 Currently interested in compilers, GPUs
+- 🌱 I'm third-year Ph.D. student at Sun Yat-sen University
+- 🤔 Currently interested in compilers, GPUs, LLMs
 - 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
 
 **📈 Last Week Coding Time**
