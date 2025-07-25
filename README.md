@@ -10,16 +10,10 @@
 - 🤔 Currently interested in compilers, GPUs, LLMs
 - 📖 Know more about me: [zejia-lin.github.io](https://zejia-lin.github.io/)
 
-**📈 Last Week Coding Time**
 
 <!--START_SECTION:wakaaaa-->
 
-```txt
-Python     18 hrs 1 min    █████████████████████▒···   85.77 %
-C          44 mins         █························   03.53 %
-Cuda       36 mins         ▓························   02.88 %
-Other      10 mins         ░························   00.84 %
-```
+
 
 <!--END_SECTION:wakaaaa-->
 
