@@ -12,7 +12,7 @@
 
 **📈 Last Week Coding Time**
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakaaaa-->
 
 ```txt
 Python     18 hrs 1 min    █████████████████████▒···   85.77 %
@@ -21,7 +21,7 @@ Cuda       36 mins         ▓························  
 Other      10 mins         ░························   00.84 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakaaaa-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zeege-0&show_icons=true&include_all_commits=true) -->
 
